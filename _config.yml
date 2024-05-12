@@ -1,1 +1,6 @@
-theme: epidrome/cover-card
+# Theme
+remote_theme: epidrome/cover-card@main
+
+# Title and tag line
+title: 'My name'
+description: 'I am amazing.'
