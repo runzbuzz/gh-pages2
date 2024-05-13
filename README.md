@@ -8,3 +8,6 @@ We used the remote theme [cover-card](https://github.com/epidrome/cover-card) by
 
 ## Website (messy)
 The sample website can be accessed from [here](https://runzbuzz.github.io/gh-pages2/)
+
+
+![DJ background!](./background.webp "DJ background")
